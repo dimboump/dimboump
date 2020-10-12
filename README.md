@@ -1,5 +1,13 @@
-### Hi there 👋
+## Dimitris Boumparis — @dimboump
+Hi there 👋. I'm Dimitris — a translator and self-taught Web Developer who's trying to get started with **Natural Language Processing `(NLP)`**.
 
+### Past work
+For the past 4 years, I have been maintaining and improving the websites of (http://dflti.ionio.gr/)[DFLTI] and (https://pem.gr)[PEM]. I have also developed the websites for (https://ti-events.org)[Translation & Interpreting Events] and (https://dimetra.academy)[dimetra.academy].
+
+### Get in touch
+- Email: (mailto:dimi.boump.trisWgmail.com)[dimi.boump.trisWgmail.com]
+- Twitter: (https://twitter.com/dimboump)[@dimboump]
+- Stack Overflow: (https://stackoverflow.com/users/6748361/dimboump)[@dimboump]
 <!--
 **dimboump/dimboump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
