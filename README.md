@@ -1,11 +1,24 @@
 ## Dimitris Boumparis — @dimboump
-Hi there 👋. I'm Dimitris — a translator and self-taught Web Developer who's trying to get started with **Natural Language Processing `(NLP)`**.
+Hi there 👋. I'm Dimitris — a translator and self-taught Web Developer.
+I am currently attending a Master's Degree on **[Digital Text Analysis](https://www.uantwerpen.be/en/study/programmes/all-programmes/digital-text-analysis/)**.
+
+### Coding skills
+- HTML 🔥🔥🔥🔥🔥
+- CSS 🔥🔥🔥🔥🔥
+- Python 🔥🔥🔥
+- R 🔥
+
+### Currently working on...
+- Mikros, G. & **Boumparis, D.** (2021). *Gender identification in source and translated texts. A cross-linguistic evaluation of author profiling robustness.*
 
 ### Past work
-For the past 4 years, I have been maintaining and improving the websites of [DFLTI](http://dflti.ionio.gr/) and [PEM](https://pem.gr). I have also developed the websites for [Translation & Interpreting Events](https://ti-events.org) and [dimetra.academy](https://dimetra.academy).
+- Website of [DFLTI](http://dflti.ionio.gr/)
+- Website of [PEM](https://pem.gr)
+- Website of [Translation & Interpreting Events](https://ti-events.org)
+- Website of [dimetra.academy](https://dimetra.academy).
 
 ### Get in touch
-- Email: [dimi.boump.tris@gmail.com](mailto:dimi.boump.tris@gmail.com)
+- Email: [dimboump@pm.me](mailto:dimboump@pm.me)
 - Twitter: [@dimboump](https://twitter.com/dimboump)
 - Stack Overflow: [@dimboump](https://stackoverflow.com/users/6748361/dimboump)
 <!--
