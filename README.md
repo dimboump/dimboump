@@ -10,13 +10,13 @@ class Dimitris:
 		self.role = 'Master\'s Student'
 		self.locations = {'hometown': (Nafplio, Greece), 'studied': (Corfu, Greece), 'current': (Antwerp, Belgium)}
 		self.skills = {
-            'Languages' = {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
-            'Programming': ['Python', 'HTML', 'CSS', 'SCSS', 'git', 'R'],
-            'OS': ['Windows', 'Linux'],
-            'CMS': ['WordPress', 'Drupal'],
-            'Tools': ['Visual Studio Code', 'GitHub', 'Azure', 'Microsoft Office' 'Smartcat', 'Trados Studio'],
-            'Creative': ['Photoshop', 'Lightroom', 'Figma']
-		}
+			'Languages' = {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
+			'Programming': ['Python', 'HTML', 'CSS', 'SCSS', 'git', 'R'],
+			'OS': ['Windows', 'Linux'],
+			'CMS': ['WordPress', 'Drupal'],
+			'Tools': ['Visual Studio Code', 'GitHub', 'Azure', 'Microsoft Office' 'Smartcat', 'Trados Studio'],
+			'Creative': ['Photoshop', 'Lightroom', 'Figma']
+			}
 		self.internship = {'CLiPS': 'Textual Data Analyst'}
 		self.research_interests = ['Machine Learning', 'Computational Linguistics', 'Translation', 'Localization']
 		self.hobbies = ['Photography', 'Sudoku', 'Tech']
