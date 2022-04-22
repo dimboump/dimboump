@@ -3,18 +3,18 @@ Hi there 👋. I'm Dimitris — a translator and self-taught Web Developer.
 I'm currently a master's student in the **[MA Digital Text Analysis](https://www.uantwerpen.be/en/study/programmes/all-programmes/digital-text-analysis/)**.
 
 ```python
-class Dimitris:
+class Dimitris(Boumparis):
     def __init__(self):
         self.fullname = 'Dimitris Boumparis'
         self.birth = 1997.12
-        self.role = 'Master\'s Student'
+        self.role = "Master's Student"
         self.locations = {'hometown': (Nafplio, Greece), 'currently': (Antwerp, Belgium)}
         self.skills = {
-            'Languages' = {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
+            'Languages': {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
             'Programming': ['Python', 'HTML', 'CSS', 'SCSS', 'git', 'R'],
             'OS': ['Windows', 'Linux'],
             'CMS': ['WordPress', 'Drupal'],
-            'Tools': ['Visual Studio Code', 'GitHub', 'Azure', 'Microsoft Office' 'Smartcat', 'Trados Studio'],
+            'Tools': ['Visual Studio Code', 'GitHub', 'Azure', 'Microsoft Office', 'Smartcat', 'Trados Studio'],
             'Creative': ['Photoshop', 'Lightroom', 'Figma']
         }
         self.research_interests = ['Natural Language Processing', 'Machine Translation', 'Localization']
