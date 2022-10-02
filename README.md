@@ -11,27 +11,27 @@ class Dimitris(Boumparis):
         self.locations = {'hometown': (Nafplio, Greece), 'currently': (Antwerp, Belgium)}
         self.skills = {
             'Languages': {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
-            'Programming': ['Python', 'git', 'R'],
-            'OS': ['Windows', 'Linux'],
+            'Programming': ['Python', 'R', 'JavaScript'],
+            'OS': {'Windows': 11.0, 'Linux': 20.04},
             'Web': ['HTML', 'CSS', 'SCSS', 'WordPress', 'Drupal'],
             'Tools': ['Visual Studio Code', 'GitHub', 'Azure', 'Microsoft Office'],
             'Translation': ['Smartcat', 'RWS Trados Studio'],
             'Creative': ['Photoshop', 'Lightroom', 'Figma']
         }
-        self.research_interests = ['Natural Language Processing', 'Machine Translation', 'Localization']
+        self.research_interests = ['Natural Language Processing', 'Machine Translation', 'Website Localization']
         self.hobbies = ['Photography', 'Sudoku', 'Tech']
         
     def __repr__(self):
         return f"""\
             Hi there 👋. I'm {self.first_name} — a {self.role.lower()} of
-            Digital Text Analysis at the University of {self.locations['currently'][0]}.
+            Digital Text Analysis at the University of {self.locations['currently']}.
         """
 ```
 
 ### 🔜 Currently working on...
 
-- **Boumparis, D.** & Giannoutsos, C. (in preparation). _Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair_.
-- Mikros, G. & **Boumparis, D.** (in preparation). _Gender identification in source and translated texts. A cross-linguistic evaluation of author profiling robustness._
+[x] Mikros, G.K. & **Boumparis, D.** (submitted). _Cross-linguistic Authorship Attribution and Author Profiling. Is Machine Translation the Solution?_
+[x] **Boumparis, D.** & Giannoutsos, C. (submitted). _Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair_.
 
 ### 📄 Publications
 
