@@ -30,8 +30,8 @@ class Dimitris(Boumparis):
 
 ### 🔜 Currently working on...
 
-[x] Mikros, G.K. & **Boumparis, D.** (submitted). _Cross-linguistic Authorship Attribution and Author Profiling. Is Machine Translation the Solution?_
-[x] **Boumparis, D.** & Giannoutsos, C. (submitted). _Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair_.
+- [x] Mikros, G.K. & **Boumparis, D.** (submitted). _Cross-linguistic Authorship Attribution and Author Profiling. Is Machine Translation the Solution?_
+- [x] **Boumparis, D.** & Giannoutsos, C. (submitted). _Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair_.
 
 ### 📄 Publications
 
