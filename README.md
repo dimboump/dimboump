@@ -26,10 +26,11 @@ class Dimitris(Boumparis):
         """
 ```
 
-### 🔜 Currently working on...
+## 🔜 Currently working on...
 
-- [x] Mikros, G.K. & **Boumparis, D.** (submitted). _Cross-linguistic Authorship Attribution and Author Profiling. Is Machine Translation the Solution?_
+- [x] Mikros, G.K. & **Boumparis, D.**. (submitted). _Cross-linguistic Authorship Attribution and Author Profiling. Is Machine Translation the Solution?_, 14 October 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2129774/v1](https://doi.org/10.21203/rs.3.rs-2129774/v1)
 - [x] **Boumparis, D.** & Giannoutsos, C. (submitted). _Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair_.
+- [ ] **Boumparis, D** (2023). _Native Language Identification of Greek in English-Written texts_, Master's Thesis, University of Antwerp. [https://github.com/dimboump/GreekNLI](https://github.com/dimboump/GreekNLI)
 
 ## 📄 Publications
 
