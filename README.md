@@ -40,7 +40,6 @@ class Dimitris(Boumparis):
 
 ## 💬 Get in touch!
 
-- Email: [dimboump@pm.me](mailto:dimboump@pm.me)
+- Email: [dimitris@dimboump.dev](mailto:dimitris@dimboump.dev)
 - Twitter: [@dimboump](https://twitter.com/dimboump)
-- Hashnode: [@dimboump](https://hashnode.com/@dimboump)
 - Stack Overflow: [@dimboump](https://stackoverflow.com/users/6748361/dimboump)
