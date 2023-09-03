@@ -9,9 +9,9 @@ class Dimitris(Boumparis):
         self.birth_year = 1997
         self.role = 'Schuman Trainee'
         self.organization = 'European Parliament'
-        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Luxemburg', 'Luxemburg')}
+        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Luxembourg', 'Luxembourg')}
         self.skills = {
-            'Programming': ['Python', 'R', 'HTML', 'CSS', 'SCSS', 'JavaScript'],
+            'Programming': ['Python', 'HTML', 'CSS', 'SCSS', 'JavaScript', 'R'],
             'Languages'  : {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
             'Translation': [('EN', 'EL'), ('DE', 'EL'), ('ES', 'EL'), ('EL', 'EN')],
             'Creative'   : ['Photoshop', 'Lightroom', 'Figma']
