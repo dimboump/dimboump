@@ -1,4 +1,4 @@
-# Dimitris Boumparis — @dimboump
+# Dimitris Boumparis — `@dimboump`
 
 ```python
 class Dimitris(Boumparis):
@@ -7,23 +7,20 @@ class Dimitris(Boumparis):
         self.first_name = self.__class__.__name__
         self.last_name = super().__class__.__name__
         self.birth_year = 1997
-        self.role = 'Schuman Trainee'
-        self.organization = 'European Parliament'
-        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Luxembourg', 'Luxembourg')}
+        self.role = 'NLP Data Scientist'
+        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Brussels', 'Belgium')}
         self.skills = {
-            'Programming': ['Python', 'HTML', 'CSS', 'SCSS', 'JavaScript', 'R'],
             'Languages'  : {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
-            'Translation': [('EN', 'EL'), ('DE', 'EL'), ('ES', 'EL'), ('EL', 'EN')],
-            'Creative'   : ['Photoshop', 'Lightroom', 'Figma']
+            'Programming': ['Python', 'SQL', 'HTML', 'CSS', 'JavaScript', 'R', 'Bash', 'LaTeX'],
+            'Tools'      : ['Visual Studio Code', 'GitHub', 'Azure', 'AWS', 'Docker'],
+            'ML/DL'      : ['NumPy', 'Pandas', 'matplotlib', 'Seaborn', 'scikit-learn', 'NLTK', 'SpaCy',
+                            'TensorFlow', 'PyTorch', 'HuggingFace', 'Transformers', 'Streamlit', 'BeautifulSoup']
         }
-        self.tools = ['Visual Studio Code', 'GitHub', 'Azure', 'Smartcat', 'RWS Trados Studio']
         self.research_interests = ['Natural Language Processing', 'Computational Stylometry', 'Large Language Models']
         self.hobbies = ['Photography', 'Sudoku', 'Tech']
 
-    def __repr__(self):
-        return (f"Hi there 👋. I'm {self.first_name} — a {self.role.lower()} "
-                f"at the {self.organization} in {self.locations['currently']}.")
-
+    def __str__(self):
+        return f'{self.first_name} {self.last_name} | {self.role}'
 ```
 
 <p align="center">
