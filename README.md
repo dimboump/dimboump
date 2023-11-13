@@ -23,14 +23,7 @@ class Dimitris(Boumparis):
         return f'{self.first_name} {self.last_name} | {self.role}'
 ```
 
-<p align="center">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimboump&theme=light">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimboump&theme=dark">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimboump&theme=light">
-    </picture>
-</p>
-
+![GH stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimboump&theme=github)
 
 <!-- ## 🔜 Currently working on... -->
 ## 📄 Publications
