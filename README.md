@@ -25,10 +25,9 @@ class Dimitris(Boumparis):
 
 ![GH stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimboump&theme=github)
 
-<!-- ## 🔜 Currently working on... -->
 ## 📄 Publications
 
-- Mikros, G.K. & **Boumparis, D.** (submitted). _Cross-linguistic Authorship Attribution and Author Profiling. Is Machine Translation the Solution?_, 14 October 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-2129774/v1](https://doi.org/10.21203/rs.3.rs-2129774/v1)
+- Mikros, G.K. & **Boumparis, D.** (under review). _Cross Linguistic Authorship Attribution and Author Profiling. Machine Translation as a Method for Bridging the Language Gap_.
 - Giannoutsos, C. & **Boumparis, D.** (2023). _Quantitative analysis of the differences between Greek and German legal language: The case of translating the Civil Code into German_. In K. Valeontis, P. Krimpas, E. Tziafa, K. Toraki, & G. Tsiamas. Hellenic Language and Terminology: 14th Conference Papers. (pp. 180-192). Athens: Hellenic Society for Terminology.
 - **Boumparis, D.** (2023). _Native Language Identification of Greek in English-Written texts_, Master's Thesis, University of Antwerp. [https://github.com/dimboump/GreekNLI](https://github.com/dimboump/GreekNLI)
 - **Boumparis, D.** & Giannoutsos, C. (2022). Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair. In S. Castilho, R. Caro Quintana, M. Stasimioti, & V. Sosoni (Eds.). _Proceedings of the New Trends in Translation and Technology Conference &ndash; NeTTT 2022_. 4-6 July 2022, Rhodes Island, Greece. [https://nettt-conference.com/wp-content/uploads/2023/03/NeTTT-Final-Proceedings_noISBN.pdf](https://nettt-conference.com/wp-content/uploads/2023/03/NeTTT-Final-Proceedings_noISBN.pdf)
