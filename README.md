@@ -1,4 +1,4 @@
-# Dimitris Boumparis — `@dimboump`
+# Dimitris Boumparis — [`dimboump.dev`](https://dimboump.dev)
 
 ```python
 class Dimitris(Boumparis):
@@ -7,14 +7,14 @@ class Dimitris(Boumparis):
         self.first_name = self.__class__.__name__
         self.last_name = super().__class__.__name__
         self.birth_year = 1997
-        self.role = 'NLP Data Scientist'
+        self.role = 'Computational Linguist'
         self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Brussels', 'Belgium')}
         self.skills = {
-            'Languages'  : {'EL': 'native', 'EN': 'proficient', 'DE': 'advanced', 'ES': 'intermediate'},
-            'Programming': ['Python', 'SQL', 'HTML', 'CSS', 'JavaScript', 'R', 'Bash', 'LaTeX'],
-            'Tools'      : ['Visual Studio Code', 'GitHub', 'Azure', 'AWS', 'Docker'],
-            'ML/DL'      : ['NumPy', 'Pandas', 'matplotlib', 'Seaborn', 'scikit-learn', 'NLTK', 'SpaCy',
-                            'TensorFlow', 'PyTorch', 'HuggingFace', 'Transformers', 'Streamlit', 'BeautifulSoup']
+            'Languages'    : {'EL': 'native', 'EN': 'C2', 'DE': 'C1', 'ES': 'B1'},
+            'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Streamlit', 'Jupyter', 'R', 'SPSS'],
+            'ML/DL'        : ['scikit-learn', 'spaCy', 'Keras', 'PyTorch', 'Transformers', 'OpenAI', 'LangChain'],
+            'Web Dev'      : ['HTML', '(Tailwind) CSS', 'TypeScript', 'Next.js', 'PostgreSQL', 'Flask', 'FastAPI'],
+            'Tools'        : ['VS Code', 'WSL', 'Azure', 'AWS', 'Vercel', 'Docker'],
         }
         self.research_interests = ['Natural Language Processing', 'Computational Stylometry', 'Large Language Models']
         self.hobbies = ['Photography', 'Sudoku', 'Tech']
