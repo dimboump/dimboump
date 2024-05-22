@@ -7,11 +7,12 @@ class Dimitris(Boumparis):
         self.first_name = self.__class__.__name__
         self.last_name = super().__class__.__name__
         self.birth_year = 1997
-        self.role = 'Computational Linguist'
-        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Brussels', 'Belgium')}
+        self.role = 'Data & AI Analyst'
+        self.company = 'Accenture'
+        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Athens', 'Greece')}
         self.skills = {
-            'Languages'    : {'EL': 'native', 'EN': 'C2', 'DE': 'C1', 'ES': 'B1'},
-            'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Streamlit', 'Jupyter', 'R', 'SPSS'],
+            'Languages'    : {'Greek': 'native', 'English': 'C2', 'German': 'C1', 'Spanish': 'B1'},
+            'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Streamlit', 'Jupyter', 'R'],
             'ML/DL'        : ['scikit-learn', 'spaCy', 'Keras', 'PyTorch', 'Transformers', 'OpenAI', 'LangChain'],
             'Web Dev'      : ['HTML', '(Tailwind) CSS', 'TypeScript', 'Next.js', 'PostgreSQL', 'Flask', 'FastAPI'],
             'Tools'        : ['VS Code', 'WSL', 'Azure', 'AWS', 'Vercel', 'Docker'],
@@ -27,7 +28,7 @@ class Dimitris(Boumparis):
 
 ## 📄 Publications
 
-- Mikros, G.K. & **Boumparis, D.** (under review). _Cross Linguistic Authorship Attribution and Author Profiling. Machine Translation as a Method for Bridging the Language Gap_.
+- Mikros, G.K. & **Boumparis, D.** (under review). _Cross-Linguistic Authorship Attribution and Author Profiling. Machine Translation as a Method for Bridging the Language Gap_. Digital Scholarship in the Humanities. Oxford: Oxford University Press.
 - Giannoutsos, C. & **Boumparis, D.** (2023). _Quantitative analysis of the differences between Greek and German legal language: The case of translating the Civil Code into German_. In K. Valeontis, P. Krimpas, E. Tziafa, K. Toraki, & G. Tsiamas. Hellenic Language and Terminology: 14th Conference Papers. (pp. 180-192). Athens: Hellenic Society for Terminology.
 - **Boumparis, D.** (2023). _Native Language Identification of Greek in English-Written texts_, Master's Thesis, University of Antwerp. [https://github.com/dimboump/GreekNLI](https://github.com/dimboump/GreekNLI)
 - **Boumparis, D.** & Giannoutsos, C. (2022). Quantitative and Qualitative Evaluation of Human and Machine-Translated EU Economic Texts in the English-Greek Language Pair. In S. Castilho, R. Caro Quintana, M. Stasimioti, & V. Sosoni (Eds.). _Proceedings of the New Trends in Translation and Technology Conference &ndash; NeTTT 2022_. 4-6 July 2022, Rhodes Island, Greece. [https://nettt-conference.com/wp-content/uploads/2023/03/NeTTT-Final-Proceedings_noISBN.pdf](https://nettt-conference.com/wp-content/uploads/2023/03/NeTTT-Final-Proceedings_noISBN.pdf)
