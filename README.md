@@ -7,8 +7,9 @@ class Dimitris(Boumparis):
         self.first_name = self.__class__.__name__
         self.last_name = super().__class__.__name__
         self.birth_year = 1997
-        self.role = 'Computational Linguist'
-        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Brussels', 'Belgium')}
+        self.role = 'Data & AI Analyst'
+        self.company = 'Accenture'
+        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Athens', 'Greece')}
         self.skills = {
             'Languages'    : {'EL': 'native', 'EN': 'C2', 'DE': 'C1', 'ES': 'B1'},
             'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Streamlit', 'Jupyter', 'R', 'SPSS'],
