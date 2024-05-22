@@ -11,8 +11,8 @@ class Dimitris(Boumparis):
         self.company = 'Accenture'
         self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Athens', 'Greece')}
         self.skills = {
-            'Languages'    : {'EL': 'native', 'EN': 'C2', 'DE': 'C1', 'ES': 'B1'},
-            'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Streamlit', 'Jupyter', 'R', 'SPSS'],
+            'Languages'    : {'Greek': 'native', 'English': 'C2', 'German': 'C1', 'Spanish': 'B1'},
+            'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Streamlit', 'Jupyter', 'R'],
             'ML/DL'        : ['scikit-learn', 'spaCy', 'Keras', 'PyTorch', 'Transformers', 'OpenAI', 'LangChain'],
             'Web Dev'      : ['HTML', '(Tailwind) CSS', 'TypeScript', 'Next.js', 'PostgreSQL', 'Flask', 'FastAPI'],
             'Tools'        : ['VS Code', 'WSL', 'Azure', 'AWS', 'Vercel', 'Docker'],
