@@ -1,27 +1,34 @@
 # Dimitris Boumparis — [`dimboump.dev`](https://dimboump.dev)
 
-```python
-class Dimitris(Boumparis):
-
-    def __init__(self):
-        self.first_name = self.__class__.__name__
-        self.last_name = super().__class__.__name__
-        self.birth_year = 1997
-        self.role = 'AI Engineer'
-        self.company = 'Accenture'
-        self.locations = {'hometown': ('Nafplio', 'Greece'), 'currently': ('Athens', 'Greece')}
-        self.skills = {
-            'Languages'    : {'Greek': 'native', 'English': 'C2', 'German': 'C1', 'Spanish': 'B1'},
-            'Data Analysis': ['NumPy', 'Pandas', 'matplotlib', 'Jupyter'],
-            'ML/DL'        : ['scikit-learn', 'spaCy', 'PyTorch', 'Transformers', 'OpenAI', 'LangChain'],
-            'Web Dev'      : ['HTML', 'CSS', 'TypeScript', 'Next.js', 'Flask', 'FastAPI'],
-            'Tools'        : ['Azure', 'AWS', 'Docker', 'bash', 'SQL'],
-        }
-        self.research_interests = ['Natural Language Processing', 'Large Language Models']
-        self.hobbies = ['Photography', 'Sudoku', 'Tech']
-
-    def __str__(self):
-        return f'{self.first_name} {self.last_name} is an {self.role} at {self.company}.'
+```json
+{
+    "first_name": "Dimitris",
+    "last_name": "Boumparis",
+    "born_in": 1997,
+    "role": "AI Engineer",
+    "company": "Accenture",
+    "locations": {
+        "hometown": "Nafplio, Greece",
+        "currently": "Athens, Greece",
+        "past": [
+            "Luxembourg, Luxembourg",
+            "Antwerp, Belgium",
+            "Mainz, Germany",
+            "Corfu, Greece"
+        ]
+    },
+    "skills": {
+        "natural_languages": ["Greek", "English", "German", "Spanish"],
+        "programming_languages": ["Python", "JavaScript", "HTML/CSS", "SQL", "bash"],
+        "data_analysis": ["NumPy", "Pandas", "matplotlib", "Jupyter"],
+        "machine_learning": ["scikit-learn", "spaCy", "PyTorch", "Transformers"],
+        "generative_ai": ["LangChain", "Hugging Face", "OpenAI", "Llama"],
+        "web_development": ["Next.js", "Flask", "FastAPI", "PostgreSQL", "Streamlit"],
+        "devops": ["Docker", "Azure Pipelines", "GitHub Actions"],
+        "cloud": ["Azure", "AWS"]
+    },
+    "research_interests": ["Natural Language Processing", "Large Language Models"]
+}
 ```
 
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimboump&theme=github)
